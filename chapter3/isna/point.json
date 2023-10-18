@@ -1,0 +1,733 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "SMP Negeri 9 Purwokerto"
+        },
+        "geometry": {
+          "coordinates": [
+            109.24056606248752,
+            -7.403188195509557
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Kantor Kelurahan Sumampir"
+        },
+        "geometry": {
+          "coordinates": [
+            109.23989413306805,
+            -7.403621971088654
+          ],
+          "type": "Point"
+        },
+        "id": 1
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "dwaryan's hause"
+        },
+        "geometry": {
+          "coordinates": [
+            109.2416332671379,
+            -7.4041559581538365
+          ],
+          "type": "Point"
+        },
+        "id": 2
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Purwokerto City Walk"
+        },
+        "geometry": {
+          "coordinates": [
+            109.24367232948356,
+            -7.40359438497525
+          ],
+          "type": "Point"
+        },
+        "id": 3
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Masjid Nurul Ulum"
+        },
+        "geometry": {
+          "coordinates": [
+            109.24491596143872,
+            -7.403223092375455
+          ],
+          "type": "Point"
+        },
+        "id": 4
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Lapangan Unsoed"
+        },
+        "geometry": {
+          "coordinates": [
+            109.24559830581666,
+            -7.404243532870041
+          ],
+          "type": "Point"
+        },
+        "id": 5
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Fakultas Ekonomi Universitas Jendral Sudirman"
+        },
+        "geometry": {
+          "coordinates": [
+            109.24699051733324,
+            -7.403294026101264
+          ],
+          "type": "Point"
+        },
+        "id": 6
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Gedung D Fakultas Ekonomi Unsoed"
+        },
+        "geometry": {
+          "coordinates": [
+            109.24754079886043,
+            -7.4041343944397084
+          ],
+          "type": "Point"
+        },
+        "id": 7
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Gedung Roedhiro"
+        },
+        "geometry": {
+          "coordinates": [
+            109.24664386437047,
+            -7.405138453469675
+          ],
+          "type": "Point"
+        },
+        "id": 8
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Gedung Kuliah FH Unsoed"
+        },
+        "geometry": {
+          "coordinates": [
+            109.24736473317068,
+            -7.4050402289044115
+          ],
+          "type": "Point"
+        },
+        "id": 9
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Sanggar Kegiatan Belajar Purwokerto"
+        },
+        "geometry": {
+          "coordinates": [
+            109.24561181712056,
+            -7.405987139409092
+          ],
+          "type": "Point"
+        },
+        "id": 10
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Toko Sejahtera"
+        },
+        "geometry": {
+          "coordinates": [
+            109.24516899181111,
+            -7.406964516177965
+          ],
+          "type": "Point"
+        },
+        "id": 11
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Gedung administrasi Unsoed"
+        },
+        "geometry": {
+          "coordinates": [
+            109.2461241143256,
+            -7.404151311516358
+          ],
+          "type": "Point"
+        },
+        "id": 12
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Gedung A Fakultas Ekonomu Unsoed"
+        },
+        "geometry": {
+          "coordinates": [
+            109.24667994945366,
+            -7.404210977542391
+          ],
+          "type": "Point"
+        },
+        "id": 13
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Gedung C Fakultas Ekonomi Unsoed"
+        },
+        "geometry": {
+          "coordinates": [
+            109.24698651831329,
+            -7.4040376619173855
+          ],
+          "type": "Point"
+        },
+        "id": 14
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Gedung B Fakultas Ekonomi Unsoed"
+        },
+        "geometry": {
+          "coordinates": [
+            109.24696646240602,
+            -7.404358721955887
+          ],
+          "type": "Point"
+        },
+        "id": 15
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Gedung G Fakultas Ekonomi Unsoed"
+        },
+        "geometry": {
+          "coordinates": [
+            109.24644787396181,
+            -7.4036739830078915
+          ],
+          "type": "Point"
+        },
+        "id": 16
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "LPTSI Unsoed"
+        },
+        "geometry": {
+          "coordinates": [
+            109.24614990048957,
+            -7.403655230787123
+          ],
+          "type": "Point"
+        },
+        "id": 17
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Layanan pengadaan secara elektronis Universitas Jendral Soedirman"
+        },
+        "geometry": {
+          "coordinates": [
+            109.24639057136915,
+            -7.403288710316033
+          ],
+          "type": "Point"
+        },
+        "id": 18
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "UPT Perpustakaan Unsoed"
+        },
+        "geometry": {
+          "coordinates": [
+            109.24564563769275,
+            -7.403129600559367
+          ],
+          "type": "Point"
+        },
+        "id": 19
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Taman Kupu kupu Unsoed"
+        },
+        "geometry": {
+          "coordinates": [
+            109.24535042363902,
+            -7.402777293769603
+          ],
+          "type": "Point"
+        },
+        "id": 20
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Universitas Terbuka"
+        },
+        "geometry": {
+          "coordinates": [
+            109.24688928911542,
+            -7.402726828531442
+          ],
+          "type": "Point"
+        },
+        "id": 21
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "UKM Fisip Unsoed"
+        },
+        "geometry": {
+          "coordinates": [
+            109.24681479574775,
+            -7.401544867461752
+          ],
+          "type": "Point"
+        },
+        "id": 22
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Lapangan Basket"
+        },
+        "geometry": {
+          "coordinates": [
+            109.2470124896845,
+            -7.400915244581583
+          ],
+          "type": "Point"
+        },
+        "id": 23
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Gedung Kuliah Fisip Unsoed"
+        },
+        "geometry": {
+          "coordinates": [
+            109.24591801020478,
+            -7.401645447908919
+          ],
+          "type": "Point"
+        },
+        "id": 24
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Graha Widyatama Parking"
+        },
+        "geometry": {
+          "coordinates": [
+            109.24529876465482,
+            -7.401199782246465
+          ],
+          "type": "Point"
+        },
+        "id": 25
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jendral Sodirman University Convention Center"
+        },
+        "geometry": {
+          "coordinates": [
+            109.24603689983036,
+            -7.401166934702687
+          ],
+          "type": "Point"
+        },
+        "id": 26
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "KFC"
+        },
+        "geometry": {
+          "coordinates": [
+            109.24554181575462,
+            -7.399803884565074
+          ],
+          "type": "Point"
+        },
+        "id": 27
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Pincuk Coklat"
+        },
+        "geometry": {
+          "coordinates": [
+            109.24552395189846,
+            -7.399983566051063
+          ],
+          "type": "Point"
+        },
+        "id": 28
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jasa Pengiriman Paket \"Pahala Kencana\""
+        },
+        "geometry": {
+          "coordinates": [
+            109.24518964257669,
+            -7.399988627499724
+          ],
+          "type": "Point"
+        },
+        "id": 29
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Lapangan Bulu Tangkis "
+        },
+        "geometry": {
+          "coordinates": [
+            109.24575618203818,
+            -7.399492605199583
+          ],
+          "type": "Point"
+        },
+        "id": 30
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Masjid Perumahan Prabu Bima"
+        },
+        "geometry": {
+          "coordinates": [
+            109.24602669187078,
+            -7.400059487782244
+          ],
+          "type": "Point"
+        },
+        "id": 31
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Perumahan Pabuaran Indah"
+        },
+        "geometry": {
+          "coordinates": [
+            109.24691733232675,
+            -7.400418854780369
+          ],
+          "type": "Point"
+        },
+        "id": 32
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Lapangan Grendeng"
+        },
+        "geometry": {
+          "coordinates": [
+            109.24874930072906,
+            -7.401741268809019
+          ],
+          "type": "Point"
+        },
+        "id": 33
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "SDN Grendeng"
+        },
+        "geometry": {
+          "coordinates": [
+            109.24925329086494,
+            -7.402041432655338
+          ],
+          "type": "Point"
+        },
+        "id": 34
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "manjabal"
+        },
+        "geometry": {
+          "coordinates": [
+            109.24518882671202,
+            -7.397734889864211
+          ],
+          "type": "Point"
+        },
+        "id": 35
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Lumbung Coffeshop and Resto"
+        },
+        "geometry": {
+          "coordinates": [
+            109.24533385789852,
+            -7.398051302499624
+          ],
+          "type": "Point"
+        },
+        "id": 36
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Kost Putri Kenanga"
+        },
+        "geometry": {
+          "coordinates": [
+            109.24469267283172,
+            -7.397821690290911
+          ],
+          "type": "Point"
+        },
+        "id": 37
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Bee Cool Salon"
+        },
+        "geometry": {
+          "coordinates": [
+            109.24485551486526,
+            -7.397783841880781
+          ],
+          "type": "Point"
+        },
+        "id": 38
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Glows Photography"
+        },
+        "geometry": {
+          "coordinates": [
+            109.24521374292635,
+            -7.396695676645663
+          ],
+          "type": "Point"
+        },
+        "id": 39
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Rumah Makan Bu Tina"
+        },
+        "geometry": {
+          "coordinates": [
+            109.24518066563837,
+            -7.396498864372177
+          ],
+          "type": "Point"
+        },
+        "id": 40
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Wisma Sinatrya"
+        },
+        "geometry": {
+          "coordinates": [
+            109.24464025056886,
+            -7.397029161121779
+          ],
+          "type": "Point"
+        },
+        "id": 41
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "BSI"
+        },
+        "geometry": {
+          "coordinates": [
+            109.24570046144305,
+            -7.398929279759898
+          ],
+          "type": "Point"
+        },
+        "id": 42
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Lapangan Tenis unsoed"
+        },
+        "geometry": {
+          "coordinates": [
+            109.2488322496626,
+            -7.4010582057835705
+          ],
+          "type": "Point"
+        },
+        "id": 43
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "QUATRO"
+        },
+        "geometry": {
+          "coordinates": [
+            109.25044574056051,
+            -7.40221941654714
+          ],
+          "type": "Point"
+        },
+        "id": 44
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "HOHO COLECTION"
+        },
+        "geometry": {
+          "coordinates": [
+            109.25140118489816,
+            -7.404555189030191
+          ],
+          "type": "Point"
+        },
+        "id": 45
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Kantor Kelurahan Karangwangkal"
+        },
+        "geometry": {
+          "coordinates": [
+            109.25209592967713,
+            -7.404806611045757
+          ],
+          "type": "Point"
+        },
+        "id": 46
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Gedung UKM Unsoed"
+        },
+        "geometry": {
+          "coordinates": [
+            109.2520786486865,
+            -7.406560733578914
+          ],
+          "type": "Point"
+        },
+        "id": 47
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Masjid Fatimatuzzahroh"
+        },
+        "geometry": {
+          "coordinates": [
+            109.25050784568901,
+            -7.405811698475873
+          ],
+          "type": "Point"
+        },
+        "id": 48
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jendral Soedirman University"
+        },
+        "geometry": {
+          "coordinates": [
+            109.25310895443505,
+            -7.408846684330456
+          ],
+          "type": "Point"
+        },
+        "id": 49
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Susilo Soedirman Stadium"
+        },
+        "geometry": {
+          "coordinates": [
+            109.2506091838926,
+            -7.408263811190054
+          ],
+          "type": "Point"
+        },
+        "id": 50
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Wijayakusuma Golf Course"
+        },
+        "geometry": {
+          "coordinates": [
+            109.24705297436685,
+            -7.414040483550735
+          ],
+          "type": "Point"
+        },
+        "id": 51
+      }
+    ]
+  }

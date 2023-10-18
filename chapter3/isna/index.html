@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MAP PURWOKERTO</title>
+	<link rel="stylesheet" href="./style.css" type="text/css" />
+	<script src="https://cdn.jsdelivr.net/npm/ol@v8.1.0/dist/ol.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/ol@v8.1.0/ol.css">
+    <link rel="stylesheet" href="https://openlayers.org/en/v4.6.5/css/ol.css" type="text/css">
+
+</head>
+<body>
+    <style>
+        .ifahopenlayer{
+          padding: 10px;
+          margin: 10px;
+          border: 1px solid black;
+          border: transparent;
+          width: 200px;
+          background-color: rgb(126, 185, 236);
+          color: white;
+          border-radius: 30px;
+          text-align: center;
+        }
+        .ifahopenlayer:hover{
+            padding: 10px;
+            margin: 10px;
+            border: 1px solid black;
+            border: transparent;
+            width: 200px;
+            background-color: rgb(255, 138, 20);
+            color: white;
+            border-radius: 30px;
+            text-align: center;
+            box-shadow: 5px 5px 5px 0 rgba(0, 0, 0, 0.5);
+        }
+        .ifahopenlayer a{
+          color: white;
+          text-decoration: none;
+        }
+      </style>
+      
+      <div class="ifahopenlayer">
+        <a href="../index.html">Isnaenti Tugas - Google Cloud JSON</a>
+      </div>
+
+
+    <div>
+        <h1>CHAPTER 3 GIS</h1>
+    </div>
+    <div class="intro">
+        <h2>Nama    : Isnaenti Nur Latifah</h2>
+        <h2>NPM     : 1214033 </h2>
+        <h2>Kelas   : D4 Teknik Informatika 3A</h2>
+    </div>
+
+    
+    
+    <div id = "map" class="map"></div>
+    <div id = "info-table>
+        <div class="point-table">
+            <!-- MEMBUAT DISPLAY TABLE DATA POINT BUAT JSON -->
+            <h1>Data Poin</h1>
+            <table id="pointTable" border="1">
+                <thead>
+                    <tr>
+                        <th>No</th>
+                        <th>Nama</th>
+                        <th>Koordinat</th>
+                        <th>Type</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+        </div>
+        
+        <div class="linestring-table">
+            <h1>Data Polyline</h1>      
+            <table id="linestringTable" border="1">
+                <thead>
+                    <tr>
+                        <th>No</th>
+                        <th>Nama</th>
+                        <th>Koordinat</th>  
+                        <th>Type</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+        </div>
+
+
+        <div class="polygon-table">
+            <h1>Data Polygon</h1>
+            <table id="polygonTable" border="1">
+                <thead>
+                    <tr>
+                        <th>No</th>
+                        <th>Nama</th>
+                        <th>Koordinat</th>
+                        <th>Type</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+        </div>
+    </div>
+    <script type="module" src="./coba.js"></script>
+    <script src="https://openlayers.org/en/v4.6.5/build/ol.js"></script>
+</body>
+</html>
